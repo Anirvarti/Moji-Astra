@@ -1,0 +1,6 @@
+{
+  "name": "Moji Astra - AI Hand & Face Emoji Studio",
+  "description": "Turn hand gestures and facial expressions into emojis for classroom gaming and live video meetings using on-device MediaPipe AI tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
